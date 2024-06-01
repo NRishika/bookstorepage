@@ -1,0 +1,112 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.home-page {
+    padding: 20px;
+    background-color: #1b1b1b;
+}
+
+.home-page-heading {
+    font-family: Bree serif;
+    color: #ffffff;
+    font-size: 30px;
+}
+
+.home-page-top-card {
+    background-color: #e6f6ff;
+    height: 40vh;
+    border-radius: 10px;
+}
+
+.top-card-image {
+    height: 200;
+}
+
+.home-page-top-card-content {
+    margin: 20px;
+}
+
+.home-page-top-card-heading {
+    font-family: Bree serif;
+    color: #183b56;
+    font-size: 25px;
+
+}
+
+.home-page-top-card-para {
+    font-family: Bree serif;
+    color: #06070d;
+    font-size: 20px;
+
+}
+
+.home-page-top-card-paragraph {
+    font-family: Bree serif;
+    color: #183b56;
+    font-size: 18px;
+
+}
+
+.book-content {
+    margin: 15px;
+}
+
+.book {
+    height: 30vh;
+    margin: 10px;
+}
+
+.book-content {}
+
+.book-heading {
+    color: #ffffff;
+    font-family: Bree serif;
+    font-size: 30px;
+
+}
+
+.book-para {
+    color: #ffffff;
+    font-family: Bree serif;
+    font-size: 20px;
+}
+
+.image-card {
+    margin: 20px;
+    width: 50vw;
+    text-align: center;
+}
+
+.book-page {
+    padding: 20px;
+    background-color: #1b1b1b;
+
+}
+
+.image {
+    height: 50vh;
+    width: 200px;
+}
+
+.image-card-heading {
+    color: #ffffff;
+    font-family: Bree serif;
+    font-size: 30px;
+}
+
+.image-card-para {
+    font-family: Bree serif;
+    color: #9aa5b1;
+}
+
+.book-page-content {
+    font-family: Bree serif;
+    color: #ffffff;
+}
+
+.button-card {
+    text-align: center;
+}
+
+.button {
+    background-color: ;
+}
